@@ -4,6 +4,8 @@
 
 Chrome extension that persists your lazada web session a little longer :)
 
+![lazlonger banner (1)](https://user-images.githubusercontent.com/32459751/157438443-45b3b9de-5283-4baa-b566-ffc7c9c10027.png)
+
 ### Why?
 
 Lazada does not persist log in credentials which sucks for lazy people like me.

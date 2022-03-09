@@ -1,0 +1,26 @@
+{
+  "name": "Lazlonger",
+  "description": "Persist your lazada web session a little longer :)",
+  "version": "1.0",
+  "manifest_version": 3,
+  "host_permissions": ["https://*.lazada.com.ph/*"],
+  "permissions": ["cookies"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "Icon-16.png",
+      "32": "Icon-32.png",
+      "48": "Icon-48.png",
+      "128": "Icon-128.png"
+    }
+  },
+  "icons": {
+    "16": "Icon-16.png",
+    "32": "Icon-32.png",
+    "48": "Icon-48.png",
+    "128": "Icon-128.png"
+  }
+}

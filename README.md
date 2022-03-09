@@ -22,7 +22,11 @@ You don't need to do anything special, just log in to lazada and your session wi
 
 ### Installation
 
+#### Load unpacked
 https://developer.chrome.com/docs/extensions/mv3/getstarted/#unpacked
+
+#### Chrome Web Store
+Currently pending review :p
 
 ### My first attempt on this
 

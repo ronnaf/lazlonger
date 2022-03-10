@@ -26,7 +26,7 @@ You don't need to do anything special, just log in to lazada and your session wi
 https://developer.chrome.com/docs/extensions/mv3/getstarted/#unpacked
 
 #### Chrome Web Store
-Currently pending review :p
+~~Currently pending review :p~~ https://chrome.google.com/webstore/detail/lazlonger/hjndcjonbadnamfffkbjhljjahobjcgd?hl=en-GB&authuser=0
 
 ### My first attempt on this
 
